@@ -26,7 +26,7 @@ export default {
       color: grey;
       h2{
         color: white;
-        font-size: 60px;
+        font-size: 44px;
         font-family: 'Montserrat Alternates', sans-serif;
         line-height: 1.5;
         letter-spacing: 4px;
